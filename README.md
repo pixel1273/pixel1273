@@ -48,6 +48,17 @@ A passionate developer diving deep into full-stack web development, software eng
 ![Metasploit](https://img.shields.io/badge/Metasploit-1F3A52?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
 
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pixel1273&show_icons=true&theme=dark" alt="Sumit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixel1273&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+<img src="https://streak-stats.demolab.com?user=pixel1273&theme=dark" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pixel1273&theme=github-compact" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=pixel1273&theme=darkhub&no-frame=true&row=1" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=pixel1273&style=for-the-badge&color=blue" />
+</p>
+
 📫 Connect with Me
 LinkedIn: sumit-kumar-49a235380
 
