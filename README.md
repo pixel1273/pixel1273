@@ -58,7 +58,11 @@ A passionate developer diving deep into full-stack web development, software eng
 </p>
 
 📫 Connect with Me
-LinkedIn: sumit-kumar-49a235380
+<div align="center">
+  <a href="https://linkedin.com/in/sumit-kumar-49a235300">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 GitHub: @pixel1273
 
