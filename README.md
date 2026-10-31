@@ -50,8 +50,7 @@ A passionate developer diving deep into full-stack web development, software eng
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pixel1273&show_icons=true&theme=dark" alt="Sumit's GitHub Stats" width="48%" />
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixel1273&layout=compact&theme=dark" alt="Top Languages" width="48%" />
 <img src="https://streak-stats.demolab.com?user=pixel1273&theme=dark" width="48%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pixel1273&theme=github-compact" width="100%" />
