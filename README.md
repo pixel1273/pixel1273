@@ -1,4 +1,4 @@
-                                    Hi there, I'm Sumit 👋
+                                                    ** Hi there, I'm Sumit 👋**
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=header&text=Welcome%20to%20my%20Profile&fontSize=30&fontColor=ffffff" /> </p>
 A passionate developer diving deep into full-stack web development, software engineering fundamentals, and modern infrastructure. I enjoy solving algorithmic problems and exploring cybersecurity and system architectures.
 
